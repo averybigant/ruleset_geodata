@@ -1,3 +1,6 @@
+# 注意：
+**[sing-box PuerNya 版内核](https://github.com/DustinWin/clash_singbox-tools/tree/sing-box)已同步到 v1.10.0+ 版本，[规则集 rule_set 文件](https://github.com/DustinWin/ruleset_geodata/tree/master#%E4%BA%8C-ruleset-%E8%A7%84%E5%88%99%E9%9B%86%E6%96%87%E4%BB%B6%E8%AF%B4%E6%98%8E)有改动，须一并同步**
+
 # 一、 geodata 规则集文件说明
 ## 1. 文件类型
 ① Clash geodata 规则集文件，包括：geosite.dat、geoip.dat、Country.mmdb 和 geoip.metadb、ASN.mmdb（仅限 [mihomo 内核](https://github.com/MetaCubeX/mihomo)）等  
